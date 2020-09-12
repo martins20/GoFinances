@@ -1,4 +1,4 @@
-# app-budget-backend
+# GoFinances
 
 An application API for controll your finances. GoFinances is an application to control your financial expenses in a simple and elegant way.
 
